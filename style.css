@@ -1,0 +1,10 @@
+body{ background-color: aquamarine;}
+.gauche{float: left;
+
+}
+.droite{float: right;
+    
+}
+p{
+    text-align: justify;
+}
